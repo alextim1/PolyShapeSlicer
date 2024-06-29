@@ -1,0 +1,7 @@
+#pycharm folders
+__pycache__/
+
+.idea/
+
+#orifinal formations
+*.ftx
